@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center">Hi there 👋</h1>
 <div align="center">
 <img src="https://source.unsplash.com/featured/800x600/?developer" alt="Banner"/>
 
