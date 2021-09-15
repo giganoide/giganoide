@@ -1,10 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
-<script>
-document.write(https://artii.herokuapp.com/make?text=Ciao);
-</script>
-
 <div align="center">
+<img src="https://artii.herokuapp.com/make?text=Ciao" alt="Banner"/>
 <img src="https://source.unsplash.com/featured/640x480/?developer" alt="Banner"/>
 
 <!--
