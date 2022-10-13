@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://source.unsplash.com/featured/640x480/?developer" alt="Banner"/>
   
-  ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=giganoide&hide=["issues"]&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giganoide&amp;hide_border=true&amp;layout=compact" style="width: 100%">
 </div>
 
 
