@@ -1,10 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-<iframe src="https://artii.herokuapp.com/make?text=Ciao">
-  <p>Your browser does not support iframes.</p>
-</iframe>
 <img src="https://source.unsplash.com/featured/640x480/?developer" alt="Banner"/>
+</div>
 
 <!--
 **giganoide/giganoide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
