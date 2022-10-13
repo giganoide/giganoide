@@ -2,9 +2,10 @@
 
 <div align="center">
   <img src="https://source.unsplash.com/featured/640x480/?developer" alt="Banner"/>
+  
+  ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=giganoide&hide=["issues"]&show_icons=true)
 </div>
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=giganoide&hide=["issues"]&show_icons=true)
 
 <!--
 **giganoide/giganoide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
