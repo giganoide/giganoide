@@ -1,8 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-<img src="https://source.unsplash.com/featured/640x480/?developer" alt="Banner"/>
+  <img src="https://source.unsplash.com/featured/640x480/?developer" alt="Banner"/>
 </div>
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=giganoide&hide=["issues"]&show_icons=true)
 
 <!--
 **giganoide/giganoide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
