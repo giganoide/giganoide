@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there, I’m Luca Bonini! 👋</h1>
 
 <div align="center">
   <img src="https://source.unsplash.com/featured/640x480/?developer" alt="Banner"/>
